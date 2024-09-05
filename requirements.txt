@@ -5,4 +5,4 @@ pillow
 seaborn
 matplotlib
 pyPDF2
-
+mutagen
