@@ -65,7 +65,7 @@ def main():
 
     if choice == "Home":
         st.subheader("Home")
-        st.image(load_image("Resources/Images/data.png"))
+        st.image(load_image("Resource/ff.png"))
         st.write(metadata_wiki)
 
         #expander and columns
